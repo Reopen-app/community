@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://twitter.com/reopennft">
+    <img src="https://img.shields.io/twitter/follow/reopennft?label=Twitter&logo=twitter&style=for-the-badge&colorB=00ACEE" />
+  </a>
+  <a href="https://discord.reopen.app">
+    <img src="https://img.shields.io/discord/975903834079645727?logo=discord&style=for-the-badge&colorB=5865F2" />
+  </a>
+</p>
+
 # Reopen community on GithUb
 
 A NEW MOMENT FOR NTFS, A NEW ERA FOR OPEN-SOURCE
