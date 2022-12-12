@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# Reopen community on GithUb
+# Reopen community on Github
 
 A NEW MOMENT FOR NTFS, A NEW ERA FOR OPEN-SOURCE
 
