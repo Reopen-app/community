@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# Reopen community on Github
+# Reopen community on GitHub
 
 A NEW MOMENT FOR NTFS, A NEW ERA FOR OPEN-SOURCE
 
@@ -30,5 +30,5 @@ Reopen unites two worlds, OSS and NTFs, revolutionizing the way we finance OSS t
 - Genesis Pass: <https://genesis.reopen.app>
 - Discord: <https://discord.reopen.app>
 - Telegram: <https://t.me/reopennft>
-- Github: <https://github.com/Reopen-app>
+- GitHub: <https://github.com/Reopen-app>
 - Twitter: <https://twitter.com/ReopenNFT>
