@@ -17,7 +17,9 @@ Reopen unites two worlds, OSS and NTFs, revolutionizing the way we finance OSS t
 
 ## 🔗 Links
 
+- Site: <https://reopen.app>
+- Genesis Pass: <https://genesis.reopen.app>
 - Discord: <https://discord.reopen.app>
 - Telegram: <https://t.me/reopennft>
-- Guthub: <https://github.com/Reopen-app>
+- Github: <https://github.com/Reopen-app>
 - Twitter: <https://twitter.com/ReopenNFT>
